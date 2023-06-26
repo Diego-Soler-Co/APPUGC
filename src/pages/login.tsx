@@ -55,6 +55,9 @@ export const Login: React.FC = () => {
         alignItems: "center",
       }}
     >
+      <div className="titulo">
+        <label>Hola mi perro</label>
+      </div>
       <Box
         display="flex"
         gap="36px"
